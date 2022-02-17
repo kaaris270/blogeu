@@ -1,0 +1,11 @@
+.nv {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
+a{
+    text-decoration: none;
+}
+footer a{
+    color: white;
+}
